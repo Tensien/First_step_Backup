@@ -6,3 +6,5 @@ Now git gui&
 Now test branch
 
 Second action in brunch
+
+merge with second branch
