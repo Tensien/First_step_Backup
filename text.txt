@@ -9,4 +9,8 @@ Second action in brunch
 
 merge with second branch
 
+
 Conflict
+
+Conflict Conflict
+
